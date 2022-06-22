@@ -26,6 +26,7 @@ DHCP: QScan: Timed out Selecting state%Unknown DHCP problem.. No allocation poss
 ### Things to add-
 - Want to implement a flow to turn on DHCP logging and wait for output that matches the above DHCP error or subsequent corresponding DHCP allocation
 - Some flags to change some of the built in SSH settings
+- Keep proper logs of all input/output etc
 
 ### Helpful links
 - https://docs.paramiko.org/en/stable/api/client.html
